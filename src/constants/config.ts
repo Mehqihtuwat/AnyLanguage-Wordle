@@ -5,7 +5,7 @@ export const CONFIG = {
   author: 'YourNameHere', // Put your name here so people know who made this Wordle!
   authorWebsite: 'YourLinkHere', // Put a link to your website or social media here
   wordListSource: 'YourDictionarySource', // Describe the source material for your words here
-  wordListSourceLink: 'YourDictionaryLink', // Put a link to the source material for your words here
+  wordListSourceLink: 'https://pmportal.org/browse-dictionary', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
